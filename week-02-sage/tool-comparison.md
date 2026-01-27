@@ -46,7 +46,8 @@
 | ChatGPT | 13.0s | Good | Straightforward 30-day plan |
 
 ## Formatting
-
+**Google AI Studio**
+a
 
 ## My Choice for Primary Tool
 **Tool**: [Your selection]  
