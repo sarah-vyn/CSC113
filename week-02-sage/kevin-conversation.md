@@ -110,13 +110,21 @@ Here’s a "Best Practice" structure I’d recommend for a college AI project:
 The Recommended Structure:
 
 SAGE-Project/
+
 │
+
 ├── data/               # Where you keep your datasets (CSV files, images, etc.)
+
 ├── notebooks/          # For Jupyter Notebooks (.ipynb files) if you use them for testing
+
 ├── src/                # Your main source code (the "engine" of your project)
+
 ├── docs/               # Assignment instructions, rubrics, or your own notes
+
 ├── results/            # Where you save your output (graphs, charts, or saved AI models)
+
 ├── .gitignore          # A special file that tells GitHub what NOT to track
+
 └── README.md           # The "Front Page" of your project
 
 Why this works (The "Kevin Breakdown"):
