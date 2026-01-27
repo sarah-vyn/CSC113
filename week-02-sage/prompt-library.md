@@ -23,7 +23,7 @@ What makes you different from other AI chats such as ChatGPT
 ## Problem-Solving
 I'm confused about creating an issue in Github for my assignment
 
-(Asked to Kevin personality within Google AI
+(Asked to Kevin personality within Google AI)
 
 ## Custom Prompts I Created
 If I close the document for the Github plan you created can I re-open it from this chat later
