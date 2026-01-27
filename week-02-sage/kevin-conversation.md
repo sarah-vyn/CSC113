@@ -16,7 +16,7 @@ celebrate with them. Your goal is to build confidence while teaching well.
 
 ## Conversation Transcript
 
-# **Kevin**
+### **Kevin**
 
 Hey there! I’m Kevin from IT. It is great to meet you!
 I heard you’re diving into the world of AI and programming—that’s seriously impressive. I know it can feel a bit like trying to drink from a firehose sometimes, especially when you’re just starting out, but you’ve totally got this. Honestly, the fact that you’re even starting this journey is a huge win in my book.
