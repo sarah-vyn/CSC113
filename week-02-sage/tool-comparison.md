@@ -10,13 +10,13 @@
 ## Test Results
 
 ### Prompt 1: Simple Explanation Task
-**Prompt**: [Paste prompt]
+**Prompt**: Explain what artificial intelligence is to someone who has never heard of it before. Keep it under 100 words.
 
 | Tool | Response Time | Quality | Notes |
 |------|---------------|---------|-------|
-| Gemini | [fast/medium/slow] | [score/5] | [Your notes] |
-| Claude | [fast/medium/slow] | [score/5] | [Your notes] |
-| ChatGPT | [fast/medium/slow] | [score/5] | [Your notes] |
+| Gemini | 7.0s | Okay | Suitable compact answer but doesn't stand out or make me feel like I have a great understanding from reading it |
+| Claude | 5.6s | [score/5] | [Your notes] |
+| ChatGPT | 3.0s | [score/5] | [Your notes] |
 
 [Repeat for all 4 test prompts]
 
