@@ -1,2 +1,2 @@
 # CSC113
-Repository for coursework
+Repository for AI fundamentals coursework
