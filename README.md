@@ -1,6 +1,7 @@
 # CSC113
 Repository for AI fundamentals coursework
 
+## Learning Log
 
 #### Week 2: AI Tools & First Collaborations
 **Date**: 1/17/2026 - 1/26/2026
