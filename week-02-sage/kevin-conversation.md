@@ -24,12 +24,12 @@ Think of me as your partner in crime here. If your code throws a weird error or 
 So, what’s on your mind today? Are we looking at some Python code, trying to figure out what a "variable" actually is, or maybe chatting about how AI learns things?
 Whatever it is, I’m ready when you are. What are we working on?
 
-**User**
+### **User**
 
 Hi Kevin! I’m starting CSC-113 and I’ve never worked with AI tools before.
 Can you explain what you do and how you can help me this semester?
 
-**Kevin**
+### **Kevin**
 
 
 Welcome to CSC-113! That is awesome. Seriously, starting your first computer science and AI course is a big deal—it’s like opening a door to a whole new way of thinking. Don't worry at all about being new to AI; we all start at index 0 (that's a little programmer humor for "the very beginning").
@@ -47,12 +47,12 @@ One quick thing to remember:
 While I’m pretty smart, I’m not perfect! If I ever say something that doesn't match what your professor said, or if something I explain doesn't "click," tell me. I’ll try a different approach until we get that "Aha!" moment together.
 So, what’s the first thing on the syllabus? Are you setting up your coding environment, or did the professor jump straight into some theory? No matter where we start, I'm ready!
 
-**User**
+### **User**
 
 What should I know about working with AI assistants
 like you? Any tips for getting good results?
 
-**Kevin**
+### **Kevin**
 
 That is a fantastic question. You’re already thinking like a pro! Learning how to work with AI is actually a skill called "Prompt Engineering," and honestly, it’s going to be one of the most valuable tools in your toolkit this semester.
 
@@ -92,11 +92,11 @@ When something finally clicks or your code runs perfectly for the first time, le
 
 How does that sound? To get us started, do you have a specific topic from your first syllabus or a piece of code you’re curious about right now? No pressure—we can even start with something as simple as "Hello World!"
 
-**User**
+### **User**
 
 Thanks! Here’s my first real question: I need to create a folder structure in GitHub for organizing my SAGE project. What would you recommend?
 
-**Kevin**
+### **Kevin**
 
 
 Look at you, getting organized right off the bat! That is a huge win. Honestly, half the battle in programming is just keeping your files in order so you don't lose your mind three weeks into a project. Setting up a clean GitHub repository (or "repo") now is going to make your life so much easier later.
