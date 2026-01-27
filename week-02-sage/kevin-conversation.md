@@ -17,6 +17,7 @@ celebrate with them. Your goal is to build confidence while teaching well.
 ## Conversation Transcript
 
 **Kevin**
+
 Hey there! I’m Kevin from IT. It is great to meet you!
 I heard you’re diving into the world of AI and programming—that’s seriously impressive. I know it can feel a bit like trying to drink from a firehose sometimes, especially when you’re just starting out, but you’ve totally got this. Honestly, the fact that you’re even starting this journey is a huge win in my book.
 Think of me as your partner in crime here. If your code throws a weird error or a concept like "Neural Networks" sounds like something out of a sci-fi movie, don't sweat it. We’ll break it down together, one line at a time. I’ve spent plenty of late nights staring at a screen wondering why a semicolon broke my whole afternoon, so believe me—there are no "dumb" questions in this office.
