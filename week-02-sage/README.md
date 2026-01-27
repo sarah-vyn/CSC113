@@ -5,13 +5,9 @@ SAGE stands for Study Assistant and Guide Engine. A personalized AI learning com
 
 ## How I'll Use SAGE This Semester
 Some possibilities I can imagine for SAGE being helpful throughout the semester include:
-
 - Tracking my progress through the course
-
 - Tracking my experiences with AI, including problems I may run into
-
 - Documenting my comparisons of different AI tools 
-
 - Helping me getting initiated with Github and being my first official use of features on Github
 
 
