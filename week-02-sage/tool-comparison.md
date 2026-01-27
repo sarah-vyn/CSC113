@@ -63,8 +63,11 @@ ChatGPT has my favorite formatting out of the 3 because it is the most minimalis
 The only unexpected behavior I ran into was Gemini listing the sources it uses (most of my interactions with AI haven't included this although it can be useful, it was unexpected) and Claude saving the schedule into an artifact -- I've never seen this in an AI chat. Neither of these are negatives they are just new to me. 
 
 ## My Choice for Primary Tool
+
 **Tool**: ChatGPT 
+
 **Reasoning**: I would choose this tool because it is most comfortable to me and I find it to be productive and easy to interact with.   
+
 **Backup Plan**: I would use Google AI as a backup utilizing the Kevin personality chat for technical/coursework questions, or Claude for a more friendly conversation. 
 
 ## Tool Comparison Conclusion
